@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# A Landing Page build with ReactJS and Tailwind
 
 ## Available Scripts
 
