@@ -1,13 +1,13 @@
 
 import { Disclosure } from '@headlessui/react'
 import { Bars3Icon,  XMarkIcon } from '@heroicons/react/24/outline'
-import logo from '../../assets/logo.png'
+import logo from '../../assets/AppLogo.svg'
 
 const navigation = [
   { name: 'Home', href: '#', current: true },
   { name: 'About Me', href: '#about-me', current: false },
   { name: 'Services', href: '#services', current: false },
-  { name: 'Contact', href: '#contact', current: false },
+  { name: 'Work With Me', href: '#work-with-me', current: false },
 ]
 
 function classNames(...classes) {
